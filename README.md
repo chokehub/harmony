@@ -1,2 +1,2 @@
-haromony
+harmony
 ========
